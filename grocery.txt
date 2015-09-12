@@ -6,4 +6,6 @@ staples
 cellotape
 custard apple
 cherry
+cutter
+nailtip
 
