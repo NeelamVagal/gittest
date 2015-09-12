@@ -1,5 +1,6 @@
 apple
 banana
+alice and truce changes as follows
 orange
 pineapple
 staples
@@ -8,4 +9,6 @@ custard apple
 cherry
 cutter
 nailtip
-
+alice and truce changes THE END
+potato
+brinjal
