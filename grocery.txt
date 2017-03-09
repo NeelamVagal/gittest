@@ -3,16 +3,15 @@ banana
 alice and truce changes as follows
 orange
 pineapple
-staples
-cellotape
+//staples
+//cellotape
 custard apple
 cherry
 cutter
-nailtip
+//nailtip
 alice and truce changes THE END
 potato
 brinjal
-styler
-pentip
+//styler
+//pentip
 
-newly started again
